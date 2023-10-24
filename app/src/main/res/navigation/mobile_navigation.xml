@@ -20,13 +20,13 @@
     <fragment
         android:id="@+id/navigation_club"
         android:name="com.example.events.ui.club.ClubFragment"
-        android:label="Code"
+        android:label="@string/title_club"
         tools:layout="@layout/fragment_club"/>
 
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.example.events.ui.notifications.ClubFragment"
+        android:name="com.example.events.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
 </navigation>
