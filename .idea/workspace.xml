@@ -11,6 +11,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/BOXJOS000/.android/avd/Pixel_3a_API_34_extension_level_7_arm64-v8a.avd]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "com.android.tools.idea.devicemanager.tab": "Physical"
+  }
+}]]></component>
   <component name="TaskManager">
     <servers />
   </component>
